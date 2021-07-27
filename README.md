@@ -1,16 +1,16 @@
-### Hi there 👋
+## My name is Piotr Wnuczek, I design and develop internet applications. My passion is IT, personal development and creative design work.
 
-<!--
-**PiotrWnuczek/PiotrWnuczek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I believe in innovators and creators, that's why I program solutions for the effective development of projects and companies, I am the author of software for websites and applications for task planning.
 
-Here are some ideas to get you started:
+- I created a Website System - professional, multifunctional websites, with a management panel and server space, available on subscription.
+- I create Task Planner - a task planning application that will allow you to quickly and easily organize every plan and project, even the most complex.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My specializations:
+- React
+- WordPress
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- PHP
