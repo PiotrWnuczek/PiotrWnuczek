@@ -6,11 +6,10 @@
 - I create Task Planner - a task planning application that will allow you to quickly and easily organize every plan and project, even the most complex.
 
 #### My specializations:
-- React
-- WordPress
-- Java
-- Python
-- JavaScript
-- HTML
-- CSS
-- PHP
+- JavaScript, TypeScript
+- React, Redux, Axios
+- HTML, CSS, PHP
+- WordPress, Bootstrap
+- Java, Swing, AWT
+- Python, NumPy, MatPlotLib
+- ReactNative, Expo
