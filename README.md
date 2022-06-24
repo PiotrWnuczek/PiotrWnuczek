@@ -7,9 +7,10 @@
 
 #### My specializations:
 - JavaScript, TypeScript
-- React, Redux, Axios
+- React, Redux, Firebase, Axios
 - HTML, CSS, PHP
 - WordPress, Bootstrap
+- C#, .NET, Blazor
 - Java, Swing, AWT
 - Python, NumPy, MatPlotLib
 - ReactNative, Expo
