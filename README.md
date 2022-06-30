@@ -1,14 +1,16 @@
 # Piotr Wnuczek
-## Application developer specializing in frontend programming in React, enthusiast of SaaS startups
+### Application developer specializing in frontend programming in React, enthusiast of SaaS startups
 ### https://piotrwnuczek.pl/
 
-### My newest and best project:
-- Project Extend - professional application for quick and easy task and project management with the agile method.
+### Major Project:
+- Project Extend - Professional application for quick and easy task and project management with the agile method
 - https://projectextend.com/
 
-### My important projects:
-- Task Planner - application for tasks planning that allows you to quickly and easily organize every plan and project, even the most complex.
-- Website System - System for creating and managing multifunctional websites, with a management panel, landing page creator and e-commerce functions.
+### Important Projects:
+- Smart Device - Internet of Things device management application allows you to connect to Arduino and visualize the data on a graph
+- Creative Projects - Application for managing individual and team projects, allows you to organize assignments and notes in projects
+- Task Planner - Application for tasks planning that allows you to quickly and easily organize every plan and project, even the most complex
+- Website System - System for creating and managing multifunctional websites, with a management panel, landing page creator and e-commerce functions
 
 ### Technologies:
 - React with Redux and Router
