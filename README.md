@@ -1,16 +1,30 @@
-## My name is Piotr Wnuczek, I design and develop internet applications. My passion is IT, personal development and creative design work.
+# Piotr Wnuczek
+## Application developer specializing in frontend programming in React, enthusiast of SaaS startups
 ### https://piotrwnuczek.pl/
 
-#### I believe in innovators and creators, that's why I program solutions for the effective development of projects and companies, I am the author of software for websites and applications for task planning.
-- I created a Website System - professional, multifunctional websites, with a management panel and server space, available on subscription.
-- I create Task Planner - a task planning application that will allow you to quickly and easily organize every plan and project, even the most complex.
+### My newest and best project:
+- Project Extend - professional application for quick and easy task and project management with the agile method.
+- https://projectextend.com/
 
-#### My specializations:
-- JavaScript, TypeScript
-- React, Redux, Firebase, Axios
-- HTML, CSS, PHP
-- WordPress, Bootstrap
-- C#, .NET, Blazor
-- Java, Swing, AWT
-- Python, NumPy, MatPlotLib
-- ReactNative, Expo
+### My important projects:
+- Task Planner - application for tasks planning that allows you to quickly and easily organize every plan and project, even the most complex.
+- Website System - System for creating and managing multifunctional websites, with a management panel, landing page creator and e-commerce functions.
+
+### Technologies:
+- React with Redux and Router
+- Firebase or Api with Axios
+- MateriaUI or Bootstrap
+
+### Languages:
+- JavaScript or TypeScript
+- HTML and CSS
+- C# with .NET and Blazor
+
+### Basics:
+- Java with Swing
+- Python and C/C++
+- PHP with WordPress
+
+### Interested:
+- ReactNative with Expo
+- ExpressJS with MongoDB
