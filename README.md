@@ -2,7 +2,9 @@
 ### Application developer specializing in frontend programming in React, enthusiast of SaaS startups
 ### https://piotrwnuczek.pl/
 
-### Major Project:
+### Major Projects:
+- Modular Page - Professional application for quick and easy landing pages and product pages creation in minutes
+- https://modularpage.com/
 - Project Extend - Professional application for quick and easy task and project management with the agile method
 - https://projectextend.com/
 
