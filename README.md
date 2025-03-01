@@ -1,6 +1,6 @@
 # Piotr Wnuczek
-### Application developer specializing in React and Firebase, enthusiast of SaaS startups
-### https://piotrwnuczek.pl/
+### Application developer specializing in React and Firebase | enthusiast of SaaS startups
+### piotrwnuczek.pl
 
 ### Projects:
 - Modular Page - Professional application for quick and easy landing pages and product pages creation in minutes
